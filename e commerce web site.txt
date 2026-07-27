@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple E-Commerce</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>My Shop</h1>
+</header>
+
+<div class="container">
+
+    <div class="product">
+        <img src="https://via.placeholder.com/150" alt="Product">
+        <h3>Headphones</h3>
+        <p>Price: $25</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="product">
+        <img src="https://via.placeholder.com/150" alt="Product">
+        <h3>Smart Watch</h3>
+        <p>Price: $50</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="product">
+        <img src="https://via.placeholder.com/150" alt="Product">
+        <h3>Keyboard</h3>
+        <p>Price: $30</p>
+        <button>Add to Cart</button>
+    </div>
+
+</div>
+
+<footer>
+    <p>© 2026 My Shop</p>
+</footer>
+
+</body>
+</html>
